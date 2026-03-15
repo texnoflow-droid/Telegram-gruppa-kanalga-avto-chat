@@ -41,3 +41,10 @@ Loyihani ishga tushirishdan oldin tizimingizda quyidagilar mavjudligiga ishonch 
 ```bash
 git clone [https://github.com/texnoflow-droid/Telegram-gruppa-kanalga-avto-chat.git](https://github.com/texnoflow-droid/Telegram-gruppa-kanalga-avto-chat.git)
 cd Telegram-gruppa-kanalga-avto-chat
+
+├── main.py              # Asosiy logika va ishga tushirish
+├── requirements.txt     # Kerakli kutubxonalar ro'yxati
+├── .env                 # Maxfiy sozlamalar (Local)
+├── .env.example         # Sozlamalar namunasi
+├── .gitignore           # Git uchun istisno fayllar
+└── README.md            # Loyiha qo'llanmasi
